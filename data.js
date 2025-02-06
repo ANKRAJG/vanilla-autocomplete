@@ -1,0 +1,1 @@
+export const ITEMS = ['Apple', 'Mango', 'Banana', 'Strawberry', 'Onion', 'Potato', 'Tomato', 'Lemon', 'Alpine', 'Pineapple', 'Orange', 'Pear', 'Grapes', 'Pomegranate', 'Apricot', 'AppyFiz', 'Butter', 'Beetroot', 'Breeze', 'Breezer'];
